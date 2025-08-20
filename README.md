@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# Shaik Gani Basha | Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Portfolio Screenshot](./src/assets/projects/ai-resume-hr.png) <!-- Replace with your main screenshot -->
 
-## Available Scripts
+## About Me
+Full-Stack Developer & AI Engineer | Building Intelligent Web Applications with the MERN Stack.  
+Specializing in creating seamless, end-to-end systems that integrate intelligent machine learning models into scalable web platforms.  
+Focused on architecting data-driven solutions that are both powerful and user-centric.
 
-In the project directory, you can run:
+- **Education:** CSE(AIML), Chebrolu Engineering College | CGPA: 8.2
+- **Email:** bashagani18@gmail.com
+- **LinkedIn:** [Gani Basha](https://www.linkedin.com/in/gani-basha-shaik-79084132a/)
+- **GitHub:** [GaniBasha](https://github.com/GaniBasha)
+- **Phone:** 9391184232
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies & Skills
+- **Frontend:** React, HTML5, CSS3, TailwindCSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Languages:** Python, Java, C, C++  
+- **Data & ML:** Pandas, NumPy, TensorFlow, Matplotlib, NLP  
+- **Database:** SQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code, Postman
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Projects
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 1. [AI Resume HR](https://ganibasha.github.io/ai-resume-hr/)
+- **Description:** AI-powered resume platform for HR automation.
+- **GitHub:** [Repository](https://github.com/GaniBasha/ai-resume-hr)
 
-### `npm run build`
+### 2. [EchoNest](https://ganibasha.github.io/EchoNest/#/login)
+- **Description:** Music web app with personalized recommendations.
+- **GitHub:** [Repository](https://github.com/GaniBasha/EchoNest)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 3. [Mental Wellness Website](https://ganibasha.github.io/mental-wellness-website/#/login)
+- **Description:** Platform for mental health awareness and resources.
+- **GitHub:** [Repository](https://github.com/GaniBasha/mental-wellness-website)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Features
+- **Single-page scrolling** with smooth navigation
+- **Project cards** with live demo and GitHub links
+- **Skills section** with icons
+- **Education & Experience section**
+- **Contact section** with email, LinkedIn, GitHub, and phone
+- **Resume page** with downloadable resume and back navigation
+- **Dark mode styling** with modern UI/UX
+- **Subtle animations** for sections and project cards
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation & Running Locally
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+# Clone the repository
+git clone https://github.com/GaniBasha/portfolio.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Navigate to the project folder
+cd portfolio
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Install dependencies
+npm install
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Start the development server
+npm start
